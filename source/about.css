@@ -1,0 +1,43 @@
+html,
+body {
+    background-image: url('22c1df5a9eb36234df978c29b0130941.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+
+.container {
+    display: flex;
+    margin: auto;
+    align-content: center;
+    justify-content: center;
+}
+
+.card {
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 550px;
+    width: 600px;
+    background-color: rgba(58, 76, 83, 0.5) !important;
+}
+
+.textseries {
+    color: rgb(255, 255, 255);
+    align-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.introheader {
+    color: rgb(54, 2, 2);
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
